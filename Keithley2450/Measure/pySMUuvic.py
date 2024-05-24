@@ -507,6 +507,8 @@ def run_tI(project_dir,source_voltage,delay_time,duration,ILIMIT,terminals,addre
         
     print("Program completed")
 
+    return times, currents_plot
+
 ### tI measurement (Constant voltage source) ###
 def run_tI_step(project_dir,source_voltages,delay_time,duration,ILIMIT,terminals,address):
     
