@@ -1,1 +1,5 @@
 # Ignore all .ipynb_checkpoints
+.ipynb_checkpoints
+.jupyter
+.pycache
+
