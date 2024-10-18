@@ -2,4 +2,7 @@
 .ipynb_checkpoints
 .jupyter
 .pycache
-
+.venv
+build
+build.zip
+__pycache__
